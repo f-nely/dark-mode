@@ -1,7 +1,7 @@
 <h1 align="center">dark-mode</h1>
 
 <h1 align="center">
-    <img alt="hdc-host" title="hdc-host" src="assets/screenshot.png" />
+    <img alt="dark-mode" title="dark-mode" src="assets/screenshot.png" />
 </h1>
 
 <h4 align="center"> 
